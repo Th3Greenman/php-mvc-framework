@@ -1,0 +1,17 @@
+{
+    "name": "zervan/phpframework",
+    "authors": [
+        {
+            "name": "Th3Greenman",
+            "email": "zervan_hoving@live.nl"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "require": {
+        "vlucas/phpdotenv": "^5.2"
+    }
+}
