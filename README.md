@@ -1,7 +1,7 @@
-##PHP MVC Framework
+## PHP MVC Framework
 Minimalistic custom framework just for testing things out.
 
-##Installation
+## Installation
 1. Clone or download the project.
 2. Create .env file based on the .env.example file.
 3. Run composer install.
